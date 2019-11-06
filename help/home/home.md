@@ -12,9 +12,8 @@ uuid: 987b69f1-b82a-4719-a71d-b0250a4a4f92
 
 [Data Workbench](http://www.adobe.com/solutions/digital-analytics/data-workbench.html) is part of [Adobe Analytics](http://www.adobe.com/solutions/digital-analytics.html). It has highly-flexible, powerful, multi-channel capabilities designed to collect, process, analyze, and visualize data from online and offline customer interactions across all types of web, CRM, POS, and other data types. Interactive reports in Data Workbench let you analyze and react to pertinent statistical information to monitor activity and predict customer trends.
 
-[Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
-
-[![](assets/pdf_icon.png) Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) in PDF. 
+* [Analytics Documentation](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
+* [![PDF icon](assets/pdf_icon.png)](/help/home/assets/data-workbench.pdf) [Download All Data Workbench documentation](/help/home/assets/data-workbench.pdf) in PDF. 
 
 ## Key Topics
 
