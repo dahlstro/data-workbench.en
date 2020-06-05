@@ -19,7 +19,7 @@ The GDPR regulation identifies the roles and obligations of the different partie
 
 >[!Note]
 >
->For other data sources, your organization will be responsible for cleaning up challenged visitor IDs from other log sources, such as the CRM, POS, IVR, and other raw data sources. Custom-scoped services packages will be available to provide support for organizations by _providing a full replacement set of files for each data source_ or other custom options.
+>For other data sources, your organization will be responsible for cleaning up challenged visitor IDs from other log sources, such as the CRM, POS, IVR, and other raw data sources. Custom-scoped services packages will be available to provide support for organizations by _providing a full replacement set of files for each data source_ -- ongoing service retainers are required to support/maintain.
 
 ## Upgrading DWB for GDPR Implementation
 
